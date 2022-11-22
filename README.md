@@ -1,3 +1,7 @@
+# Vite THREE.js starter
+
+This is my current setup for building something with THREE.js with [Vite](https://vitejs.dev/) using classes and shaders.
+
 ## Requirements
 
 - node.js
@@ -18,4 +22,4 @@ will start a local webserver combined with a watcher that recompiles every chang
 
 ## Developing
 
-The main entrypoint is `src/main.ts`. Start there with programming.
+The main entrypoint is `src/main.ts`.

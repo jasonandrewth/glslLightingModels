@@ -3,6 +3,7 @@
     "target": "ESNext",
     "useDefineForClassFields": true,
     "module": "ESNext",
+    "strictPropertyInitialization": false,
     "lib": ["ESNext", "DOM"],
     "moduleResolution": "Node",
     "strict": true,
@@ -14,7 +15,7 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noImplicitReturns": true,
-    "skipLibCheck": true,
+    "skipLibCheck": true
   },
   "include": ["src", "types"]
 }
