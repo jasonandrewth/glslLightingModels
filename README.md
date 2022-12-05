@@ -1,4 +1,4 @@
-# Vite THREE.js starter
+# Lighting in WebGL
 
 Implementing some common lighting models in GLSL using Shaders in Three.js. Bundled using [Vite](https://vitejs.dev/).
 
