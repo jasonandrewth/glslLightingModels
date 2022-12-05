@@ -1,6 +1,6 @@
 # Vite THREE.js starter
 
-This is my current setup for building something with THREE.js with [Vite](https://vitejs.dev/) using classes and shaders.
+Implementing some common lighting models in GLSL using Shaders in Three.js. Bundled using [Vite](https://vitejs.dev/).
 
 ## Requirements
 
